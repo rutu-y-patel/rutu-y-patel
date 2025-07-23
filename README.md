@@ -28,13 +28,9 @@
 
 ---
 
-### 📦 Notable Projects
+### 📦 Notable Project
 
 - 🔧 [`spring-aop`](https://github.com/rutu-y-patel/spring-aop): A zero-boilerplate method-level logging library using Spring AOP & custom annotations  
-- ⚡ `kafka-stream-demo`: Real-time message processing using Kafka Streams  
-- 🌐 `reactive-webflux-sample`: Async, non-blocking backend using Spring WebFlux  
-
-> ⭐ Check pinned repositories below for code, documentation & examples
 
 ---
 
