@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rutu Patel</h1>
+<h1 align="center">Hi there, I'm Rutu Patel</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices | Kafka | Redis | AWS</h3>
 
 ---
