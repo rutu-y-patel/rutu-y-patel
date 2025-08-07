@@ -5,17 +5,17 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working as a **Java Backend Developer** with 6+ years of experience  
-- 🌱 I focus on building **scalable microservices**, clean APIs, and reusable Spring Boot libraries  
-- 🧪 Passionate about performance tuning, clean architecture, and observability  
-- 🌍 Open to **remote/hybrid opportunities** globally (USA/Canada preferred)  
-- 💬 Ask me about Java 17, Kafka, Redis, Spring Cloud, Docker, or AWS  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/rutu-y-patel/)  
-- 📂 Explore my projects below ⬇️  
+-  I’m currently working as a **Java Backend Developer** with 6+ years of experience  
+-  I focus on building **scalable microservices**, clean APIs, and reusable Spring Boot libraries  
+-  Passionate about performance tuning, clean architecture, and observability  
+-  Open to **remote/hybrid opportunities** globally (USA/Canada preferred)  
+-  Ask me about Java 17, Kafka, Redis, Spring Cloud, Docker, or AWS  
+-  Reach me via [LinkedIn](https://www.linkedin.com/in/rutu-y-patel/)  
+-  Explore my projects below ⬇️  
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -28,9 +28,9 @@
 
 ---
 
-### 📦 Notable Project
+### Notable Project
 
-- 🔧 [`spring-aop`](https://github.com/rutu-y-patel/spring-aop): A zero-boilerplate method-level logging library using Spring AOP & custom annotations  
+-  [`spring-aop`](https://github.com/rutu-y-patel/spring-aop): A zero-boilerplate method-level logging library using Spring AOP & custom annotations  
 
 ---
 
