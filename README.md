@@ -31,7 +31,10 @@
 ### Notable Project
 
 -  [`spring-aop`](https://github.com/rutu-y-patel/spring-aop): A zero-boilerplate method-level logging library using Spring AOP & custom annotations  
-
+- [`idempotent-cache`](https://github.com/rutu-y-patel/idempotent-cache): A plug-and-play Java/Spring Boot library for **idempotent processing using Redis**.  
+  - Prevents duplicate processing in batch jobs, APIs, event-driven systems  
+  - Spring Boot auto-configuration, Prometheus/Micrometer metrics, detailed logging  
+  - [Full documentation & examples →](https://github.com/rutu-y-patel/idempotent-cache)
 ---
 
 ### 📈 GitHub Stats
