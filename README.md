@@ -8,7 +8,7 @@
 -  I’m currently working as a **Java Backend Developer** with 6+ years of experience  
 -  I focus on building **scalable microservices**, clean APIs, and reusable Spring Boot libraries  
 -  Passionate about performance tuning, clean architecture, and observability  
--  Open to **remote/hybrid opportunities** globally (USA/Canada preferred)  
+-  Open to **remote/hybrid opportunities** (USA/Canada preferred)  
 -  Ask me about Java 17, Kafka, Redis, Spring Cloud, Docker, or AWS  
 -  Reach me via [LinkedIn](https://www.linkedin.com/in/rutu-y-patel/)  
 -  Explore my projects below ⬇️  
