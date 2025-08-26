@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 -  I’m currently working as a **Java Backend Developer** with 6+ years of experience  
--  I focus on building cloud native, **scalable microservices**, clean APIs, and reusable Spring Boot libraries  
+-  I specialize in engineering cloud-native microservices that scale, crafting clean and secure APIs, and publishing reusable Spring Boot libraries.  
 -  Passionate about performance tuning, clean architecture, and observability  
 -  Open to **remote/hybrid opportunities** (USA/Canada preferred)  
 -  Ask me about Java 17, Kafka, Redis, Spring Cloud, Docker, or AWS  
